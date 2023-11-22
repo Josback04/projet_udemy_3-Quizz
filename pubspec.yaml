@@ -1,0 +1,28 @@
+name: projet_udemy_3
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets: 
+    - lib\images\FB_IMG_1646128674230.jpg
+    - lib\images\FB_IMG_1646168491453.jpg
+    - lib\images\FB_IMG_1647537945868.jpg
+    - lib\images\IMG_20220331_225958_934.jpg
+    - lib\images\IMG-20220305-WA0039.jpg
+    - lib\images\IMG-20220307-WA0002.jpg
+    - lib\images\IMG-20220307-WA0004.jpg
+
